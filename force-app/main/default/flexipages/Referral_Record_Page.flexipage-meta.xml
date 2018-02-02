@@ -107,7 +107,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>reportFilter</name>
-                <value>shane__Referral__c.Id</value>
+                <value>Referral__c.Id</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>reportName</name>
