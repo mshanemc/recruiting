@@ -3,11 +3,11 @@
         let ref = component.get("v.refer");
 
         //the real action we want to take
-        if (ref.shane__First_Name__c){
+        if (ref.First_Name__c){
 
             console.log("component id is " + component.get("v.recordId"));
             //set the job
-            ref.shane__Job__c = component.get("v.recordId");
+            ref.Job__c = component.get("v.recordId");
 
             console.log(ref);
             //ok, now save it
@@ -43,10 +43,10 @@
             $A.enqueueAction(action);
         } else {
             //there's no data yet...let's populate it.
-            ref.shane__First_Name__c = 'Bo';
-            ref.shane__Last_Name__c = 'Mangels';
-            ref.shane__Phone__c = '415 555 5555';
-            ref.shane__Email__c = 'bo.mangels@gmail.com';
+            ref.First_Name__c = 'Bo';
+            ref.Last_Name__c = 'Mangels';
+            ref.Phone__c = '415 555 5555';
+            ref.Email__c = 'bo.mangels@gmail.com';
           component.set("v.refer", ref);
         }
 	}

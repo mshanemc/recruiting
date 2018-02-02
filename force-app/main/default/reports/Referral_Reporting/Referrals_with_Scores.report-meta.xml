@@ -42,7 +42,7 @@
         <field>Referral__c.Scores1__r$Attribute__c</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
-    <name>Referrals with Scores</name>
+    <name>Referrals with Scores2</name>
     <params>
         <name>co</name>
         <value>1</value>

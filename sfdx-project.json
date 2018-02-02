@@ -10,7 +10,7 @@
       "ancestorId": ""
     }
   ],
-  "namespace": "shane",
+  "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "41.0"
 }

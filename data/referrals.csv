@@ -1,4 +1,4 @@
-Name,shane__Candidate_ID__c,shane__Email__c,shane__First_Name__c,shane__Last_Name__c,shane__Phone__c,shane__Status__c,shane__Job__c
+Name,Candidate_ID__c,Email__c,First_Name__c,Last_Name__c,Phone__c,Status__c,Job__c
 Bo Mangels,1,bo.mangels@gmail.com,Bo,Mangels,415 555 5555,Reviewing,3
 Marc Benioff,2,,Marc,Benioff,(415) 555-5555,Reviewing,4
 Michael Flynn,3,,Michael,Flynn,(289) 489-2894,Created,5
