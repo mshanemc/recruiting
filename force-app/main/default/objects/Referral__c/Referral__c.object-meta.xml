@@ -56,7 +56,6 @@
     <enableSearch>true</enableSearch>
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
-    <externalSharingModel>ReadWrite</externalSharingModel>
     <label>Referral</label>
     <nameField>
         <label>Candidate</label>
